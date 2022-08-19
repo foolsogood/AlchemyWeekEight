@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/foolsogood/AlchemyWeekEight#readme",
   "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
     "dotenv": "^16.0.1",
     "hardhat": "^2.10.2"
   }
