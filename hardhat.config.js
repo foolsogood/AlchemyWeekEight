@@ -12,7 +12,7 @@ module.exports = {
     
     "optimism": {
        url: process.env.URL,
-       accounts: [ process.env.MNEMONIC ]
+       accounts: [ process.env.MNEMONIC]
     }
   }
 };
